@@ -1,0 +1,32 @@
+.sinvers {
+    color: rgba(7, 12, 7, 0.904);
+    padding: 30px;
+    border-radius: 30px;
+    border: black 2px solid;
+    padding: 15px;
+    margin: 15px;
+    background: gainsboro;
+    color: darkslategray;
+}
+
+.sinvers>img {
+    height: 350px;
+    width: auto;
+    margin: 5px;
+    border-radius: 25px;
+}
+
+.btn {
+    font-size: 25px;
+    font-weight: bolder;
+    background-color: gold;
+    border: gray 2px solid;
+    padding: 15px 100px;
+    margin-top: 20px;
+    border-radius: 25px;
+}
+
+.btn:hover {
+    background-color: hotpink;
+    color: khaki;
+}

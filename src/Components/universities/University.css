@@ -1,0 +1,13 @@
+.TotalCost {
+    padding: 10px;
+    margin: 30px, 0;
+}
+
+.University {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    color: rgba(7, 12, 7, 0.904);
+    padding: 30px;
+    border-radius: 30px;
+    border: black 2px solid;
+}
